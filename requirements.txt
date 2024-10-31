@@ -1,0 +1,8 @@
+Django==4.1
+djangorestframework
+requests
+django-admin-interface
+ultralytics
+torch  # or torch==<specific_version> if needed
+opencv-python-headless  # for image processing with OpenCV
+
